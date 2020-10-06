@@ -27,7 +27,7 @@ export default class Blank extends React.Component {
 
   render = () => (
     <View style={styles.View_1}>
-      <Text style={styles.Text_3}>Sample text content</Text>
+      <Text style={styles.Text_3}>This is my sharing component.</Text>
       <CheckBox
         title="Radio button"
         disabled={false}
