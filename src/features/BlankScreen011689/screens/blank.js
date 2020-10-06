@@ -33,6 +33,7 @@ export default class Blank extends React.Component {
         style={styles.Button_3}
         onPress={() => alert("Pressed!")}
       />
+      And a commit issue
       <Slider
         value={50}
         minimumValue={0}
