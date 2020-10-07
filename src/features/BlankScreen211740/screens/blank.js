@@ -28,6 +28,8 @@ export default class Blank extends React.Component {
   render = () => (
     <View style={styles.container}>
       <Text>This is your new component. Changing. More commit changes. Will this be overwritten? </Text>
+    dasdasdasdadad
+    
     </View>
   );
 }
